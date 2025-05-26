@@ -58,13 +58,10 @@ pytest --cov=app --cov-report=term-missing tests/
 
 ## CI/CD
 本项目配置了GitHub Actions，push后自动测试并输出覆盖率。
-
-## AI接口
-如需体验AI能力，申请OpenAI API Key并配置后，调用`/ai/chat`接口即可。
-
+、
 ## 亮点总结
 - 业务流程完整，接口文档齐全
 - 自动化测试&覆盖率报告
 - 持续集成，提升开发效率
-- 支持AI自然语言扩展
+、
 
